@@ -1,0 +1,5 @@
+selenium==4.9.1
+pandas==2.1.1
+boto3==1.26.165
+s3fs==0.4.2
+Faker==6.4.1
